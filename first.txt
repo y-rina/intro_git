@@ -1,3 +1,4 @@
 Git‚Ì—ûK
 git add
 git commit
+git rm
